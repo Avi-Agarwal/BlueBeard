@@ -4,8 +4,8 @@
 ```
 1. Clone the repo
 2. cd into blue_beard folder
-2. npm install
-3. node app.js
+2. run: **npm install**
+3. run the service with: **node app.js**
 ```
 ### Framework decision
 ```$xslt
