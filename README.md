@@ -34,8 +34,10 @@ protected or double checked. Some sort of return struct would
 have been safer, but right now there is a big assumption between
 the files that the correct object is being returned.
 ```
+
 ### Example
 Basic Call:
 ![](https://user-images.githubusercontent.com/54955992/135929207-ccf81dda-a9d4-4cd5-a57b-757a9e483b5f.png)
 Changing Primary Email Service:
 ![](https://user-images.githubusercontent.com/54955992/135929278-0e9ea245-1e44-4bfc-a6ce-95fc679d8cbe.png)
+
