@@ -3,9 +3,9 @@
 ## How to Install
 ```
 1. Clone the repo
-2. cd into blue_beard folder
-2. run: **npm install**
-3. run the service with: **node app.js**
+2. Cd into blue_beard folder
+2. To download dependencies run: npm install
+3. Run the service with: node app.js
 ```
 ### Framework decision
 ```$xslt
